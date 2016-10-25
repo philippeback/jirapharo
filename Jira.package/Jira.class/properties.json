@@ -1,0 +1,16 @@
+{
+	"category" : "Jira",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PhilippeBack 10/14/2016 15:57",
+	"instvars" : [
+		"jiraUrl",
+		"password",
+		"username" ],
+	"name" : "Jira",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

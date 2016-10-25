@@ -1,0 +1,1 @@
+Provides support for resources under the /rest/agile

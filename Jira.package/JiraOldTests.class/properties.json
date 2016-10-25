@@ -1,0 +1,14 @@
+{
+	"category" : "Jira-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "JiraOldTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

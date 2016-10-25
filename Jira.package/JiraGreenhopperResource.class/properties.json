@@ -1,0 +1,14 @@
+{
+	"category" : "Jira",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PhilippeBack 10/15/2016 15:42",
+	"instvars" : [
+		 ],
+	"name" : "JiraGreenhopperResource",
+	"pools" : [
+		 ],
+	"super" : "JiraResource",
+	"type" : "normal" }

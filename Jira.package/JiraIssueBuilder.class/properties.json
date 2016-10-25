@@ -1,0 +1,14 @@
+{
+	"category" : "Jira",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PhilippeBack 10/14/2016 16:57",
+	"instvars" : [
+		 ],
+	"name" : "JiraIssueBuilder",
+	"pools" : [
+		 ],
+	"super" : "JsonObject",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "Jira-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"projectName",
+		"jira",
+		"epicNameCustomFieldName",
+		"epicCustomFields" ],
+	"name" : "JiraTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+https://docs.atlassian.com/jira/REST/cloud/#api/2/issue-getCreateIssueMeta

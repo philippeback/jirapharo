@@ -1,0 +1,14 @@
+{
+	"category" : "Jira",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PhilippeBack 10/14/2016 19:27",
+	"instvars" : [
+		 ],
+	"name" : "JiraApiFieldResource",
+	"pools" : [
+		 ],
+	"super" : "JiraApiResource",
+	"type" : "normal" }

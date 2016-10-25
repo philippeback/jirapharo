@@ -1,0 +1,16 @@
+{
+	"category" : "Jira",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PhilippeBack 9/9/2015 21:24",
+	"instvars" : [
+		"options",
+		"resourceBase",
+		"isUsingJsonObject" ],
+	"name" : "JiraResource",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

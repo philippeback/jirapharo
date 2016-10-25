@@ -1,0 +1,14 @@
+{
+	"category" : "Jira",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PhilippeBack 10/15/2016 21:39",
+	"instvars" : [
+		 ],
+	"name" : "JiraAgileBoardBacklogResource",
+	"pools" : [
+		 ],
+	"super" : "JiraAgileBoardResource",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Jira",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PhilippeBack 10/14/2016 17:08",
+	"instvars" : [
+		 ],
+	"name" : "JiraApiIssueCreateMetaResource",
+	"pools" : [
+		 ],
+	"super" : "JiraApiIssueResource",
+	"type" : "normal" }
